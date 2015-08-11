@@ -18,18 +18,19 @@
 
         <div class="row">
             <div class="box">
-                <div class="col-lg-12 text-center">
-                    <h2 class="brand-before">
+                <div class="col-lg-12">
+                    <h2 class="brand-before  text-center">
                         <small>Welcome to</small>
                     </h2>
-                    <h1 class="brand-name">T&K Creations</h1>
+                    <h1 class="brand-name  text-center">T&K Creations</h1>
                     <hr class="tagline-divider">
-                    <h2>
+                    <h2 class="text-center">
                         <small>By
                             <strong>Tim and Kat DeWees</strong>
                         </small>
                     </h2>
-                    <div id="carousel-example-generic" class="carousel slide center-block col-md-6">
+                    
+                    <div id="carousel-example-generic" class="carousel slide center-block col-md-5">
                         <!-- Indicators -->
                         <ol class="carousel-indicators hidden-xs">
                             <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -87,7 +88,8 @@
                         </a>
                     </div>
                     <div class="col-md-6">
-                        <p>A family run business dedicated to the quality of hand-crafted good and attention to detail.  We stand behind our products and services and love to go the extra mile.</p>
+                        <p>A family run business dedicated to the quality of hand-crafted good and attention to detail.  We love what we do and stand behind our products and services and love to go the extra mile to create something worth keeping.</p>
+                        <p>We specialize in hand-crafted wooden goods like carvings, bowls, spoons, pens, boxes and much more.  We can also work in acylic and other special materials while still providing that hand-crafted feel.</p>
                         <p>We respond to special requests and custom orders.  If you have something you want special, just contact us via our contact page and we would be more than happy to discuss your idea with you!</p>
                     </div>
                 </div>
