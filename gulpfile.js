@@ -13,6 +13,8 @@ gulp.task('clean_dist', function(cb){
 gulp.task('build', ['clean_dist'], function() {
     gulp.src('*.php')
         .pipe(gulp.dest('dist'));
+    gulp.src('*.ico')
+        .pipe(gulp.dest('dist'));
     gulp.src('common/*.php')
         .pipe(gulp.dest('dist/common'));
     gulp.src('css/*.css')
